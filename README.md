@@ -10,4 +10,7 @@ July First week submissions - [1 & 2 assignments] (https://github.com/JJayasri/A
 
 ## Resources 
 
-Deep Learning - 
+## Main End to End Projects
+
+## Syllabus 
+DL Syllabus - (https://github.com/JJayasri/AI-Guided-Roadmap/blob/main/syllabus/dl_syllabus.txt)
